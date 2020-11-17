@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Tequila",
+      "precio": "64000",
+      "id": 6
+    },
+    {
+      "nombre": "vodka",
+      "precio": "54000",
+      "id": 7
+    },
+    {
+      "nombre": "Corona",
+      "precio": "11000",
+      "id": 8
+    },
+    {
+      "nombre": "Heineken",
+      "precio": "12500",
+      "id": 9
+    },
+    {
+      "nombre": "Amber Lager",
+      "precio": "9500",
+      "id": 10
+    }
+  ]
+}
